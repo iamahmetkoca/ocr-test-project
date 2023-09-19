@@ -23,7 +23,10 @@ This project is a software for detecting and extracting text from images.
 ---
 
 
+## Librarys
 
+IronOCR
+System.Speech
 
 
 
