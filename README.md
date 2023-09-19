@@ -1,4 +1,4 @@
-# rfid-with-login
+# ocr-test-project
 
 ![Project Image](https://ahmetkoca.com.tr/github/ocr-test-project/ocr-test-project.png)
 
