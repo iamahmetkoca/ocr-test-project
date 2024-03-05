@@ -1,6 +1,6 @@
 # ocr-test-project
 
-![Project Image](https://ahmetkoca.com.tr/github/ocr-test-project/ocr-test-project.png)
+![Project Image](https://ahmetkoca.dev/github/ocr-test-project/ocr-test-project.png)
 
 
 
